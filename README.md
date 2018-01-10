@@ -19,6 +19,7 @@ ideas gontzal:
  
  Luego para powerups mas sencillos se me ocurren dos cosas:
  - sistema de cartas--> los poderes pequeños se lanzan como cartas al partido mediante maná o alguna mierda asi (rollo clash royale)
+ 
  -que aparezcan en el campo de juego y el jugador que apunte y consiga darle con la bola se lo lleva. esta idea tambien me gusta pero tiene el inconveniente que quita el factor collecionismo, convierte el juego en algo más arcade.
  
 power ups que se me ocurren:
