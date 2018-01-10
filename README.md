@@ -1,6 +1,11 @@
 # TooCrazyPong
 2D Pong 
+
+tutorial three.js:
 https://www.html5rocks.com/en/tutorials/three/intro/
+
+HE ENCONTRADO UN MOTOR DEL MISMO TIPO PERO 2D que igual para esto es mejor:
+http://www.pixijs.com/
 
 
 para la IA
