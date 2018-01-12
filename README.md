@@ -4,6 +4,10 @@
 tutorial three.js:
 https://www.html5rocks.com/en/tutorials/three/intro/
 
+OTRO TUTORIAL DE PONG EN THREE JS:
+http://buildnewgames.com/webgl-threejs/
+Este es guay porque tiene todo lo basico, lo unico que tenemos que poner la camara donde queremos
+
 HE ENCONTRADO UN MOTOR DEL MISMO TIPO PERO 2D que igual para esto es mejor:
 http://www.pixijs.com/
 
